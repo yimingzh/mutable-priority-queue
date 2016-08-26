@@ -27,15 +27,8 @@
 ;; mpq-empty?: MPQ -> Bool
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; do not modify the file above this line
 
-;; INTEGRITY STATEMENT (modify if necessary)
-;; I received help from the following sources:
-;; None. I am the sole author of this work 
-
-;; sign this statement by removing the line below and entering your name
 ;; Name: Yiming Zhong
-;; login ID: y45zhong
 
 ;; IMPLEMENTATION BELOW
 
